@@ -668,23 +668,6 @@
      "file": "/home/pi/.node-red/node_modules/node-red-dashboard/nodes/ui_group.js"
     }
    }
-  },
-  "node-red-contrib-git-ui": {
-   "name": "node-red-contrib-git-ui",
-   "version": "0.1.10",
-   "local": true,
-   "nodes": {
-    "git-ui": {
-     "name": "git-ui",
-     "types": [
-      "git-ui"
-     ],
-     "enabled": true,
-     "local": true,
-     "module": "node-red-contrib-git-ui",
-     "file": "/home/pi/.node-red/node_modules/node-red-contrib-git-ui/git/git.js"
-    }
-   }
   }
  },
  "_credentialSecret": "e2ae85602bcd274a843a0f73408145f97aec849d84b440dd31d372f512834469",

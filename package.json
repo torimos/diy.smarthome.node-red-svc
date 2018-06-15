@@ -4,7 +4,6 @@
   "version": "0.0.1",
   "dependencies": {
     "json-db-node-red": "~0.5.3",
-    "node-red-contrib-git-ui": "~0.1.10",
     "node-red-dashboard": "~2.9.4",
     "node-red-node-sqlite": "^0.2.3"
   }
